@@ -18,6 +18,3 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I’m a third-year Ph.D. student in the Department of Computer Science at Duke University, under supervision of Prof. [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) and Prof. [Benjamin Lee](https://www.seas.upenn.edu/~leebcc/). I’m interested in creating interpretable machine learning models that are transparent, fair, trustworthy and environmentally friendly. Prior to joining Duke, I received my Bachelor's degree in Mathematics and Computer Science from the University of Michigan.
-
-
-
