@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses I've teached in the past.
 nav: true
+nav_order: 6
 ---
 
 Compsci 671: Theory and Algorithms for Machine Learning -- Fall 2020
